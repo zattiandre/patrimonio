@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "QU1965",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 60, "STRISCIATA": "STR 06 - FOTOGRAMMI 133NE-146SO", "LINK": "\\\\nas-patrimonio\\Cartografia\\CARTOGRAFIA\\ORTOFOTO 1963\\STR_06", "linkchrome": "<a href=\"\\\\nas-patrimonio\\Cartografia\\CARTOGRAFIA\\ORTOFOTO 1963\\STR_06\" > LINK<\/a><br>\n" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 1128274.036116143222898, 5706108.88530630338937 ], [ 1129712.371821493376046, 5709228.518829394131899 ], [ 1147492.339206211036071, 5700836.60746743530035 ], [ 1145796.46366172702983, 5697527.463496680371463 ], [ 1128274.036116143222898, 5706108.88530630338937 ] ] ] ] } }
+]
+}
