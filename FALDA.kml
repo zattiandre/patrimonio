@@ -3,26 +3,22 @@
   <Document>
     <name>FALDA</name>
     <Style id="poly-9C27B0-1000-138-normal">
-      <LineStyle>
-        <color>ffb0279c</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>8ab0279c</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
+      <IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
     </Style>
     <Style id="poly-9C27B0-1000-138-highlight">
-      <LineStyle>
-        <color>ffb0279c</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>8ab0279c</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
+     
     </Style>
     <StyleMap id="poly-9C27B0-1000-138">
       <Pair>
