@@ -8,41 +8,24 @@
 		<width>3</width>
 	</LineStyle>
 	<PolyStyle>
-		<color>33ddbfa5</color>
+		<color>ff6f9b72</color>
 		<fill>1</fill>
 		<outline>1</outline>
 	</PolyStyle>
 </Style>
 <Placemark>
 <name>Caionvico</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1808
-<br/><strong>Area:</strong> 5235468<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\CAI 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\CAI">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\CAI 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\CAI">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\CAI 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\CAI">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\CAI 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\CAI">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\CAI 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\CAI">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\CAI 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\CAI">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: Caionvico
+<br/>ANNO_CAT: 1808
+<br/>Area: 5235468
+<br/>COD: CAI</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Caionvico]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1808]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[5235468]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[CAI]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -154,7 +137,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.295746,45.51223,0.00000
 					10.295502,45.511386,0.00000
 					10.295344,45.51085,0.00000
-					10.294634,45.508422,0.00000
 					10.294634,45.508422,0.00000
 					10.294168,45.506603,0.00000
 					10.294062,45.505962,0.00000
@@ -401,39 +383,21 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 <Placemark>
 <name>Sant Eufemia</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1808
-<br/><strong>Area:</strong> 11117457<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\SEU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\SEU">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\SEU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\SEU">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\SEU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\SEU">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\SEU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\SEU">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\SEU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\SEU">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\SEU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\SEU">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: Sant Eufemia
+<br/>ANNO_CAT: 1808
+<br/>Area: 11117457
+<br/>COD: SEU</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Sant Eufemia]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1808]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[11117457]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[SEU]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -724,7 +688,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.261314,45.485797,0.00000
 					10.260898,45.485406,0.00000
 					10.26068,45.485211,0.00000
-					10.26068,45.485211,0.00000
 					10.260678,45.485209,0.00000
 					10.259839,45.484549,0.00000
 					10.259744,45.484474,0.00000
@@ -875,7 +838,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.258093,45.513287,0.00000
 					10.258164,45.513874,0.00000
 					10.258185,45.514048,0.00000
-					10.258186,45.514059,0.00000
 					10.258186,45.514059,0.00000
 					10.25821,45.514088,0.00000
 					10.258275,45.514098,0.00000
@@ -1063,39 +1025,21 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 <Placemark>
 <name>Sant Alessandro</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1807
-<br/><strong>Area:</strong> 17659643<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\SAL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\SAL">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\SAL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\SAL">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\SAL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\SAL">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\SAL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\SAL">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\SAL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\SAL">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\SAL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\SAL">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: Sant Alessandro
+<br/>ANNO_CAT: 1807
+<br/>Area: 17659643
+<br/>COD: SAL</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Sant Alessandro]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1807]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[17659643]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[SAL]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -1284,7 +1228,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.258307,45.514265,0.00000
 					10.258275,45.514098,0.00000
 					10.25821,45.514088,0.00000
-					10.258186,45.514059,0.00000
 					10.258186,45.514059,0.00000
 					10.258185,45.514048,0.00000
 					10.258164,45.513874,0.00000
@@ -1795,39 +1738,21 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 <Placemark>
 <name>Mompiano</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1810
-<br/><strong>Area:</strong> 14224655<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\MOM 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\MOM">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\MOM 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\MOM">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\MOM 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\MOM">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\MOM 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\MOM">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\MOM 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\MOM">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\MOM 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\MOM">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: Mompiano
+<br/>ANNO_CAT: 1810
+<br/>Area: 14224655
+<br/>COD: MOM</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Mompiano]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1810]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[14224655]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[MOM]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -2136,7 +2061,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.237614,45.579508,0.00000
 					10.239029,45.580219,0.00000
 					10.238822,45.580422,0.00000
-					10.238822,45.580422,0.00000
 					10.238822,45.580423,0.00000
 					10.23883,45.580797,0.00000
 					10.238861,45.580842,0.00000
@@ -2302,7 +2226,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.280366,45.561327,0.00000
 					10.280696,45.561154,0.00000
 					10.281215,45.56091,0.00000
-					10.281215,45.56091,0.00000
 					10.281393,45.560826,0.00000
 					10.283283,45.559935,0.00000
 					10.283784,45.559696,0.00000
@@ -2341,39 +2264,21 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 <Placemark>
 <name>Fiumicello</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1810
-<br/><strong>Area:</strong> 10139160<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\FIU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\FIU">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\FIU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\FIU">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\FIU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\FIU">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\FIU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\FIU">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\FIU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\FIU">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\FIU 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\FIU">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: Fiumicello
+<br/>ANNO_CAT: 1810
+<br/>Area: 10139160
+<br/>COD: FIU</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Fiumicello]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1810]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[10139160]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[FIU]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -2575,8 +2480,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.191716,45.572694,0.00000
 					10.191615,45.572378,0.00000
 					10.191346,45.572355,0.00000
-					10.191346,45.572355,0.00000
-					10.191346,45.572355,0.00000
 					10.191336,45.572354,0.00000
 					10.191351,45.572119,0.00000
 					10.191908,45.570842,0.00000
@@ -2634,39 +2537,21 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 <Placemark>
 <name>Urago Mella</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1809
-<br/><strong>Area:</strong> 2346072<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\URA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\URA">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\URA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\URA">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\URA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\URA">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\URA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\URA">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\URA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\URA">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\URA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\URA">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: Urago Mella
+<br/>ANNO_CAT: 1809
+<br/>Area: 2346072
+<br/>COD: URA</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Urago Mella]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1809]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[2346072]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[URA]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -2741,8 +2626,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.191351,45.572119,0.00000
 					10.191336,45.572354,0.00000
 					10.191346,45.572355,0.00000
-					10.191346,45.572355,0.00000
-					10.191346,45.572355,0.00000
 					10.191615,45.572378,0.00000
 					10.191876,45.5724,0.00000
 					10.191877,45.5724,0.00000
@@ -2781,7 +2664,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.209866,45.572662,0.00000
 					10.21006,45.572626,0.00000
 					10.210523,45.572471,0.00000
-					10.210523,45.572471,0.00000
 					10.210528,45.572471,0.00000
 					10.210741,45.572496,0.00000
 					10.211433,45.572574,0.00000
@@ -2807,39 +2689,21 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 <Placemark>
 <name>San Bartolomeo</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1810
-<br/><strong>Area:</strong> 6750654<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\SBA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\SBA">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\SBA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\SBA">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\SBA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\SBA">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\SBA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\SBA">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\SBA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\SBA">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\SBA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\SBA">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: San Bartolomeo
+<br/>ANNO_CAT: 1810
+<br/>Area: 6750654
+<br/>COD: SBA</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[San Bartolomeo]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1810]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[6750654]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[SBA]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -2855,7 +2719,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 					10.238861,45.580842,0.00000
 					10.23883,45.580797,0.00000
 					10.238822,45.580423,0.00000
-					10.238822,45.580422,0.00000
 					10.238822,45.580422,0.00000
 					10.239029,45.580219,0.00000
 					10.237614,45.579508,0.00000
@@ -3036,39 +2899,21 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 <Placemark>
 <name>Folzano</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1809
-<br/><strong>Area:</strong> 3151854<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\FOL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\FOL">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\FOL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\FOL">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\FOL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\FOL">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\FOL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\FOL">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\FOL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\FOL">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\FOL 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\FOL">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: Folzano
+<br/>ANNO_CAT: 1809
+<br/>Area: 3151854
+<br/>COD: FOL</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Folzano]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1809]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[3151854]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[FOL]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -3344,39 +3189,21 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 <Placemark>
 <name>Brescia</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1813
-<br/><strong>Area:</strong> 2120174<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\BRE 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\BRE">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\BRE 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\BRE">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\BRE 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\BRE">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\BRE 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\BRE">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\BRE 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\BRE">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\BRE 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\BRE">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: Brescia
+<br/>ANNO_CAT: 1813
+<br/>Area: 2120174
+<br/>COD: BRE</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Brescia]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1813]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[2120174]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[BRE]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -3490,39 +3317,21 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 <Placemark>
 <name>San Nazzaro</name>
-<description><![CDATA[<br><img src="https://t.ly/lzXlV" height="100px"alt="logo"><br>
-
-<br/><strong>Anno:</strong> 1810
-<br/><strong>Area:</strong> 18580655<br/>
-
-<br/><strong>CARTOGRAFIA STORICA:</strong>: 
-<br><br/><strong>Nuovo Catasto Edilizio Urbano</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\SNA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_EDILIZIO_URBANO\SNA">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1978</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\SNA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\NUOVO_CATASTO_TERRENI_1978\SNA">link</a>
-<br><br/><strong>Cessato Catasto Terreni 1950</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\SNA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_TERRENI_1950/SERIE_1\SNA">link</a>
-<br><br/><strong>Catasto Regno d'Italia 1898</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\SNA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_REGNO__ITALIA_1898\SNA">link</a>
-<br><br/><strong>Catasto Austriaco 1843-1878</strong>: 
-<br>\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\SNA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_AUSTRIACO_1843_1878\SNA">link</a>
-<br><br/><strong>Catasto Napoleonico 1816</strong>: \\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\SNA 
-<br><a href="\\nas-patrimonio\Cartografia\CARTOGRAFIA\CATASTO_NAPOLEONICO_1816\SNA">link</a>
-
-<p><br>Comune di Brescia<br>
-Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
+<description><![CDATA[<p>COMUNE: San Nazzaro
+<br/>ANNO_CAT: 1810
+<br/>Area: 18580655
+<br/>COD: SNA</p>]]></description>
+<ExtendedData>
+	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[San Nazzaro]]></value></Data>
+	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1810]]></value></Data>
+	<Data name="Area"><displayName>Area</displayName><value><![CDATA[18580655]]></value></Data>
+	<Data name="COD"><displayName>COD</displayName><value><![CDATA[SNA]]></value></Data>
+</ExtendedData>
 <styleUrl>#style1</styleUrl>
-<MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>
 			<LinearRing>
@@ -3947,7 +3756,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
-</MultiGeometry>
 </Placemark>
 
 </Document>
