@@ -41,12 +41,6 @@
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Caionvico]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1808]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[5235468]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[CAI]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
@@ -438,12 +432,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Sant Eufemia]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1808]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[11117457]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[SEU]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
@@ -1106,12 +1094,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Sant Alessandro]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1807]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[17659643]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[SAL]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
@@ -1844,12 +1826,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Mompiano]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1810]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[14224655]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[MOM]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
@@ -2396,12 +2372,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Fiumicello]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1810]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[10139160]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[FIU]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
@@ -2695,12 +2665,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Urago Mella]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1809]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[2346072]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[URA]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
@@ -2874,12 +2838,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[San Bartolomeo]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1810]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[6750654]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[SBA]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
@@ -3109,12 +3067,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Folzano]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1809]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[3151854]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[FOL]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
@@ -3423,12 +3375,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[Brescia]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1813]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[2120174]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[BRE]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
@@ -3575,12 +3521,6 @@ Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
 
 <p><br>Comune di Brescia<br>
 Settore Valorizzazione Patrimonio Pubblico<br>]]></description>
-<ExtendedData>
-	<Data name="COMUNE"><displayName>COMUNE</displayName><value><![CDATA[San Nazzaro]]></value></Data>
-	<Data name="ANNO_CAT"><displayName>ANNO_CAT</displayName><value><![CDATA[1810]]></value></Data>
-	<Data name="Area"><displayName>Area</displayName><value><![CDATA[18580655]]></value></Data>
-	<Data name="COD"><displayName>COD</displayName><value><![CDATA[SNA]]></value></Data>
-</ExtendedData>
 <styleUrl>#style1</styleUrl>
 <MultiGeometry>
 	<Polygon>
